@@ -6,9 +6,6 @@ Front-End Engineer / React.js / Next.js
 </br>
 
 ## My skills as a developer 😎
-
-<img width="800" height="450" src="https://user-images.githubusercontent.com/60050952/220871998-feee2577-1de0-41d5-a07d-dd433b404547.gif" alt="cover" />
-
 </br>
 
 Seeking to take the next step in my career, I am constantly updating my expertise, from Digital marketing to Web development. Currently, I am working as a Freelance Front-End Developer at [UPWORK](https://www.upwork.com/).
